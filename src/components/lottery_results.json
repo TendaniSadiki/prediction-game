@@ -1,0 +1,352 @@
+{
+    "status": "success",
+    "results": {
+        "daily_lotto_results": {
+            "date": "2024-05-08T20:00:00Z",
+            "draw_id": 1882,
+            "draw_machine": "RNG2",
+            "game_type": "Daily Lotto",
+            "total_pool_size": 1577487.3,
+            "total_sales": 3158877.0,
+            "winning_numbers": [
+                8,
+                18,
+                22,
+                26,
+                28
+            ],
+            "bonus_ball": null,
+            "next_draw_date": "2024-05-09T20:00:00Z",
+            "divisions": [
+                {
+                    "division": "DIV 1",
+                    "winners": 3,
+                    "winning_amount": 187426.7
+                },
+                {
+                    "division": "DIV 2",
+                    "winners": 486,
+                    "winning_amount": 266.5
+                },
+                {
+                    "division": "DIV 3",
+                    "winners": 13912,
+                    "winning_amount": 18.6
+                },
+                {
+                    "division": "DIV 4",
+                    "winners": 125385,
+                    "winning_amount": 5.0
+                }
+            ]
+        },
+        "lotto_results": {
+            "date": "2024-05-08T20:00:00Z",
+            "draw_id": 2436,
+            "draw_machine": "RNG2",
+            "game_type": "Lotto",
+            "total_pool_size": 5698176.94,
+            "total_sales": 12662690.0,
+            "winning_numbers": [
+                19,
+                26,
+                31,
+                36,
+                37,
+                40
+            ],
+            "bonus_ball": 22,
+            "next_draw_date": "2024-05-11T20:00:00Z",
+            "divisions": [
+                {
+                    "division": "DIV 1",
+                    "winners": 0,
+                    "winning_amount": 0.0
+                },
+                {
+                    "division": "DIV 2",
+                    "winners": 2,
+                    "winning_amount": 40701.8
+                },
+                {
+                    "division": "DIV 3",
+                    "winners": 24,
+                    "winning_amount": 5898.8
+                },
+                {
+                    "division": "DIV 4",
+                    "winners": 94,
+                    "winning_amount": 1882.6
+                },
+                {
+                    "division": "DIV 5",
+                    "winners": 1687,
+                    "winning_amount": 176.3
+                },
+                {
+                    "division": "DIV 6",
+                    "winners": 2356,
+                    "winning_amount": 109.6
+                },
+                {
+                    "division": "DIV 7",
+                    "winners": 32628,
+                    "winning_amount": 50.0
+                },
+                {
+                    "division": "DIV 8",
+                    "winners": 26376,
+                    "winning_amount": 20.0
+                }
+            ]
+        },
+        "lotto_plus1_results": {
+            "date": "2024-05-08T20:00:00Z",
+            "draw_id": 2436,
+            "draw_machine": "RNG2",
+            "game_type": "Lotto Plus 1",
+            "total_pool_size": 13870466.41,
+            "total_sales": 5740732.5,
+            "winning_numbers": [
+                6,
+                15,
+                23,
+                38,
+                43,
+                52
+            ],
+            "bonus_ball": 39,
+            "next_draw_date": "2024-05-11T20:00:00Z",
+            "divisions": [
+                {
+                    "division": "DIV 1",
+                    "winners": 0,
+                    "winning_amount": 0.0
+                },
+                {
+                    "division": "DIV 2",
+                    "winners": 0,
+                    "winning_amount": 0.0
+                },
+                {
+                    "division": "DIV 3",
+                    "winners": 32,
+                    "winning_amount": 4215.2
+                },
+                {
+                    "division": "DIV 4",
+                    "winners": 72,
+                    "winning_amount": 2201.4
+                },
+                {
+                    "division": "DIV 5",
+                    "winners": 1396,
+                    "winning_amount": 200.8
+                },
+                {
+                    "division": "DIV 6",
+                    "winners": 1986,
+                    "winning_amount": 141.1
+                },
+                {
+                    "division": "DIV 7",
+                    "winners": 29330,
+                    "winning_amount": 25.0
+                },
+                {
+                    "division": "DIV 8",
+                    "winners": 21364,
+                    "winning_amount": 15.0
+                }
+            ]
+        },
+        "lotto_plus2_results": {
+            "date": "2024-05-08T20:00:00Z",
+            "draw_id": 2436,
+            "draw_machine": "RNG2",
+            "game_type": "Lotto Plus 2",
+            "total_pool_size": 17744731.98,
+            "total_sales": 5489405.0,
+            "winning_numbers": [
+                5,
+                6,
+                10,
+                25,
+                40,
+                46
+            ],
+            "bonus_ball": 30,
+            "next_draw_date": "2024-05-11T20:00:00Z",
+            "divisions": [
+                {
+                    "division": "DIV 1",
+                    "winners": 0,
+                    "winning_amount": 0.0
+                },
+                {
+                    "division": "DIV 2",
+                    "winners": 3,
+                    "winning_amount": 42965.6
+                },
+                {
+                    "division": "DIV 3",
+                    "winners": 27,
+                    "winning_amount": 3182.6
+                },
+                {
+                    "division": "DIV 4",
+                    "winners": 92,
+                    "winning_amount": 1158.9
+                },
+                {
+                    "division": "DIV 5",
+                    "winners": 1675,
+                    "winning_amount": 127.3
+                },
+                {
+                    "division": "DIV 6",
+                    "winners": 2886,
+                    "winning_amount": 73.9
+                },
+                {
+                    "division": "DIV 7",
+                    "winners": 31547,
+                    "winning_amount": 25.0
+                },
+                {
+                    "division": "DIV 8",
+                    "winners": 24314,
+                    "winning_amount": 15.0
+                }
+            ]
+        },
+        "powerball_results": {
+            "date": "2024-05-07T20:00:00Z",
+            "draw_id": 1508,
+            "draw_machine": "RNG2/RNG2",
+            "game_type": "Powerball",
+            "total_pool_size": 32189381.41,
+            "total_sales": 18928075.0,
+            "winning_numbers": [
+                2,
+                4,
+                10,
+                39,
+                40
+            ],
+            "powerball": 11,
+            "next_draw_date": "2024-05-10T20:00:00Z",
+            "divisions": [
+                {
+                    "division": "DIV 1",
+                    "winners": 0,
+                    "winning_amount": 0.0
+                },
+                {
+                    "division": "DIV 2",
+                    "winners": 0,
+                    "winning_amount": 0.0
+                },
+                {
+                    "division": "DIV 3",
+                    "winners": 8,
+                    "winning_amount": 72773.9
+                },
+                {
+                    "division": "DIV 4",
+                    "winners": 330,
+                    "winning_amount": 1151.8
+                },
+                {
+                    "division": "DIV 5",
+                    "winners": 929,
+                    "winning_amount": 462.6
+                },
+                {
+                    "division": "DIV 6",
+                    "winners": 16333,
+                    "winning_amount": 22.0
+                },
+                {
+                    "division": "DIV 7",
+                    "winners": 12712,
+                    "winning_amount": 21.2
+                },
+                {
+                    "division": "DIV 8",
+                    "winners": 68558,
+                    "winning_amount": 15.0
+                },
+                {
+                    "division": "DIV 9",
+                    "winners": 115910,
+                    "winning_amount": 10.0
+                }
+            ]
+        },
+        "powerball_plus_results": {
+            "date": "2024-05-07T20:00:00Z",
+            "draw_id": 1508,
+            "draw_machine": "RNG2/RNG2",
+            "game_type": "Powerball Plus",
+            "total_pool_size": 14169822.23,
+            "total_sales": 8274957.5,
+            "winning_numbers": [
+                8,
+                32,
+                33,
+                37,
+                46
+            ],
+            "powerball": 10,
+            "next_draw_date": "2024-05-10T20:00:00Z",
+            "divisions": [
+                {
+                    "division": "DIV 1",
+                    "winners": 0,
+                    "winning_amount": 0.0
+                },
+                {
+                    "division": "DIV 2",
+                    "winners": 2,
+                    "winning_amount": 79271.1
+                },
+                {
+                    "division": "DIV 3",
+                    "winners": 9,
+                    "winning_amount": 11031.2
+                },
+                {
+                    "division": "DIV 4",
+                    "winners": 265,
+                    "winning_amount": 635.2
+                },
+                {
+                    "division": "DIV 5",
+                    "winners": 728,
+                    "winning_amount": 261.4
+                },
+                {
+                    "division": "DIV 6",
+                    "winners": 12976,
+                    "winning_amount": 12.2
+                },
+                {
+                    "division": "DIV 7",
+                    "winners": 9972,
+                    "winning_amount": 11.9
+                },
+                {
+                    "division": "DIV 8",
+                    "winners": 56935,
+                    "winning_amount": 7.5
+                },
+                {
+                    "division": "DIV 9",
+                    "winners": 98041,
+                    "winning_amount": 5.0
+                }
+            ]
+        }
+    }
+}
